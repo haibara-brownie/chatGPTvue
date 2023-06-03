@@ -1,3 +1,4 @@
+<!--复制功能-->
 <script setup lang="ts">
 import { Copy, Loading, CheckOne } from "@icon-park/vue-next";
 import type { Theme } from "@icon-park/vue-next/lib/runtime";

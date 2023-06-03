@@ -1,3 +1,4 @@
+<!--等待动画-->
 <template>
   <div class="com__box">
     <div class="loading">
